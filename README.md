@@ -1,18 +1,26 @@
 # Evaluation code for binary and multilabel video segmentation
 
 ## Overview
-<img src="/images/accuracy-measures.png" width="300">
+<p align="center">
+  <img height="200" src="/images/accuracy-measures.png">
+</p>
 
 ### Precision
-<img src="/images/accuracy-measures-P.png" width="300">
+<p align="center">
+  <img height="250" src="/images/accuracy-measures-P.png">
+</p>
 
 ### Recall
-<img src="/images/accuracy-measures-R.png" width="300">
+<p align="center">
+  <img height="250" src="/images/accuracy-measures-R.png">
+</p>
 
 ### F-measure
 
 ### Intersection over Union (IoU)
-<img src="/images/accuracy-measures-IoU.png" width="300">
+<p align="center">
+  <img height="250" src="/images/accuracy-measures-IoU.png">
+</p>
 
 ### ![Delta](https://latex.codecogs.com/gif.latex?%5Clarge%20%5CDelta)-Object
 
