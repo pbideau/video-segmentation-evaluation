@@ -62,7 +62,7 @@ If this helps your research please cite:
       author    = {Bideau, Pia and RoyChowdhury, Aruni and Menon, Rakesh R and Learned-Miller, Erik},
       title     = {The best of both worlds: Combining cnns and geometric constraints for hierarchical motion segmentation},
       booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-      pages={508--517},
+      pages     = {508--517},
       year      = {2018}
     }`
 
